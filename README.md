@@ -2,8 +2,8 @@
 ## My name is Gabriel Ferrante, Back-end Web Developer.
 - Currently I am a student at the Federal Institute of Education, Science and Technology of São Paulo - Brazil. Ongoing Graduation of Technology in Systems Analysis and Development
 - Tecnologies interess : 
-  * Python 
-  * Django Framework 
+  * <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> 
+  * <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django" /> 
   * OpenCV 
   * Flutter (Begginer)
 
