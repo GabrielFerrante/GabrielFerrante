@@ -1,5 +1,5 @@
 # Welcome to my github
-## My name is Gabriel Ferrante, Back-end Web Developer Django Framework.
+## My name is Gabriel Ferrante, Back-end Web Developer.
 - Currently I am a student at the Federal Institute of Education, Science and Technology of São Paulo - Brazil
 - Tecnologies interess : 
   * Python 
