@@ -1,5 +1,5 @@
 # Welcome to my github
-## My name is Gabriel Ferrante, Back-end Web Developer.
+## My name is Gabriel Ferrante, Back-end Web Developer and One Piece Fan.
 -Contacts and social medias
  * [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-souto-ferrante/)
  * [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/Gabriel.Ferrante10/)
@@ -10,9 +10,11 @@
   * <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django" /> 
   * OpenCV (Begginer)
   * <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter" /> (Begginer)
-  * 
+  
+ 
+ 
 
-
+https://www.picgifs.com/gifs/anime/one-piece/one-piece-INz6rt.gif
 
 <!--
 **GabrielFerrante/GabrielFerrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
