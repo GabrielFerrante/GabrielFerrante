@@ -9,7 +9,7 @@
   * <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> 
   * <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django" /> 
   * OpenCV (Begginer)
-  * <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter" /> (Begginer)
+  * <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart" />+<img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter" /> (Begginer)
   
  
  ![Alt Text](https://www.picgifs.com/gifs/anime/one-piece/one-piece-INz6rt.gif)
