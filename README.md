@@ -8,6 +8,8 @@
 - Tecnologies interess : 
   * <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter" /> OpenCV
   
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&show_icons=true&theme=dracula" alt="gabrielferrante" />
+  
  
  ![Alt Text](https://www.picgifs.com/gifs/anime/one-piece/one-piece-INz6rt.gif)
 
