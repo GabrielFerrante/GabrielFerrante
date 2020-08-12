@@ -6,8 +6,8 @@
 ![Alt Text](https://www.picgifs.com/gifs/anime/one-piece/one-piece-INz6rt.gif)
 - Contacts and social medias
    * [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-souto-ferrante/)
-   * [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/Gabriel.Ferrante10/)
-   * [<img src="https://img.shields.io/badge/codewars-%23AD2C27.svg?&style=for-the-badge&logo=codewars"/>](https://www.codewars.com/users/GsFerrante)
+   [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/Gabriel.Ferrante10/)
+   [<img src="https://img.shields.io/badge/codewars-%23AD2C27.svg?&style=for-the-badge&logo=codewars"/>](https://www.codewars.com/users/GsFerrante)
 - Currently I am a student of Graduation of Technology in Systems Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo - Brazil.
 - Tecnologies interess : 
   * <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter" />
