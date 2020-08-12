@@ -10,7 +10,9 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielferrante" alt="gabrielferrante" /> </p>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&show_icons=true&theme=dracula" alt="gabrielferrante" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrante&hide=html&theme=dracula" alt="gabrielferrante" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&show_icons=true&theme=dracula" alt="gabrielferrante" />
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrante&hide=html&theme=dracula" alt="gabrielferrante" />
   
  
  ![Alt Text](https://www.picgifs.com/gifs/anime/one-piece/one-piece-INz6rt.gif)
