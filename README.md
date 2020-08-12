@@ -1,5 +1,6 @@
 # Welcome to my github
 ## My name is Gabriel Ferrante, Back-end Web Developer and One Piece Fan.
+<center>
 ![Alt Text](https://www.picgifs.com/gifs/anime/one-piece/one-piece-INz6rt.gif)
 - Contacts and social medias
    * [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-souto-ferrante/)
@@ -12,9 +13,13 @@
 - Statistics:
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielferrante" alt="gabrielferrante" /> </p>
-  
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrante&hide=html&layout=compact&theme=radical" />
-  <img width="440px" align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&theme=radical&show_icons=true" />
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrante&hide=html&layout=compact&theme=radical" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&theme=radical&show_icons=true" /></td>
+  </tr>  
+  </table>
+</center>
   
 
 <!--
