@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&show_icons=true&theme=dracula" alt="gabrielferrante" />
   
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerrante&hide=html&theme=dracula" alt="GabrielFerrante" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrante&hide=html&theme=dracula" alt="gabrielferrante" />
   
 
 <!--
