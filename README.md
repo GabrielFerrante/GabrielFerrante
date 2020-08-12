@@ -6,9 +6,11 @@
   * [<img src="https://img.shields.io/badge/codewars-%23AD2C27.svg?&style=for-the-badge&logo=codewars"/>](https://www.codewars.com/users/GsFerrante)
 - Currently I am a student of Graduation of Technology in Systems Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo - Brazil.
 - Tecnologies interess : 
-  * <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter" /> OpenCV
+  * <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter" />
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&show_icons=true&theme=dracula" alt="gabrielferrante" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hudsonmelo" alt="hudsonmelo" /> </p>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&show_icons=true&theme=dracula" alt="gabrielferrante" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrante&hide=html&theme=dracula" alt="gabrielferrante" />
   
  
  ![Alt Text](https://www.picgifs.com/gifs/anime/one-piece/one-piece-INz6rt.gif)
