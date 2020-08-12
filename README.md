@@ -14,7 +14,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielferrante" alt="gabrielferrante" /> </p>
   
   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrante&hide=html&layout=compact&theme=radical" />
-  <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&theme=radical&show_icons=true" />
+  <img width="440px" align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&theme=radical&show_icons=true" />
   
 
 <!--
