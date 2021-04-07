@@ -3,7 +3,7 @@
 <center>
   
   
-![Alt Text](https://www.picgifs.com/gifs/anime/one-piece/one-piece-INz6rt.gif)
+![Alt Text](http://pa1.narvii.com/5725/e2d06edbabdabe1cbf2a4efe7465ee52b8ab0b1c_hq.gif)
 - Contacts and social medias
    * [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-souto-ferrante/)
    [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/Gabriel.Ferrante10/)
