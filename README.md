@@ -1,5 +1,5 @@
 # Welcome to my github
-## My name is Gabriel Ferrante, Back-end Web Developer and One Piece Fan.
+## My name is Gabriel Ferrante, Computer Vision Researcher and Developer and One Piece Fan.
 <center>
   
   
