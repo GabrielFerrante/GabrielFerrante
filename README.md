@@ -1,6 +1,6 @@
 <h1 align='center'>Welcome visitor </h1>
 
-<h2 align='center'> My name is Gabriel S. Ferrante, Computer Vision Researcher and Developer and </br>One Piece Fan.
+<h2 align='center'> My name is Gabriel S. Ferrante, Computer Vision Researcher, Developer and </br>One Piece Fan.
 <center></h2>
 
 <p align='center'>  
