@@ -17,6 +17,8 @@
     </br>Site official (<a href=https://www.ctd.ifsp.edu.br> IFSP-Catanduva </a>)
   * Master Degree in Computer Science and Computational mathematics at the University of São Paulo - Brazil. 
     </br>Site official (<a href=https://www.icmc.usp.br> ICMC-USP </a>)
+  * PhD Student in Computer Science at the Federal University of São Carlos - Brazil.
+    </br>Site official (<a href=https://www.ufscar.br> UFSCAR </a>)
 
 ResearchGate - https://www.researchgate.net/profile/Gabriel-Ferrante-8 <br>
 ORCID - https://orcid.org/0000-0002-3877-2925 <br>
