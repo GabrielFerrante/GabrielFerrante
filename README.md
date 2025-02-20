@@ -12,6 +12,7 @@
    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-souto-ferrante/)
    [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/Gabriel.Ferrante10/)
    [<img src="https://img.shields.io/badge/codewars-%23AD2C27.svg?&style=for-the-badge&logo=codewars"/>](https://www.codewars.com/users/GsFerrante)
+   [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/miryushaigo)
 ## Academic education
   * I'm graduated of Technology in Systems Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo - Brazil. 
     </br>Site official (<a href=https://www.ctd.ifsp.edu.br> IFSP-Catanduva </a>)
