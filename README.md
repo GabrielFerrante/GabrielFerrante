@@ -1,3 +1,6 @@
+  
+ ![Status](./url)
+
 <h1 align='center'>Welcome visitor </h1>
 
 <h2 align='center'> My name is Gabriel S. Ferrante, Computer Vision Researcher, Developer and </br>One Piece Fan.
@@ -64,6 +67,5 @@ Lattes - http://lattes.cnpq.br/2972111461924346
   </tr>  
   </table>
 </center>
-  
 
 
