@@ -3,7 +3,7 @@
   
 ## Academic education
   * I'm graduated of Technology in Systems Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo - Brazil. 
-    </br>Site official (<a href=https://www.ctd.ifsp.edu.br> IFSP-Catanduva </a>)
+    </br>Site official (<a href=https://ctd.ifsp.edu.br> IFSP-Catanduva </a>)
   * Master Degree in Computer Science and Computational mathematics at the University of São Paulo - Brazil. 
     </br>Site official (<a href=https://www.icmc.usp.br> ICMC-USP </a>)
   * PhD Student in Computer Science at the Federal University of São Carlos - Brazil.
