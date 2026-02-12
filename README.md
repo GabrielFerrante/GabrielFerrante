@@ -29,16 +29,15 @@ Lattes - http://lattes.cnpq.br/2972111461924346
 
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-  <table style="border:none">
+  <table style="border:none " align = "center" >
   <tr>
       <td> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerrante&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></td>
-      <td><img width="457px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielferrante&theme=radical&show_icons=true" /></td>
   </tr>  
   </table>
 </center>
 
 <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=GabrielFerrante&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://trophy.ryglcloud.net/?username=GabrielFerrante"/>
   </div>
 
 
